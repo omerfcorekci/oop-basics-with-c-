@@ -38,3 +38,4 @@ int main(){
 	john.printSalary(); // true
 	return 0;
 }
+
