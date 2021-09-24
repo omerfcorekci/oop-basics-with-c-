@@ -40,3 +40,4 @@ int main(){
     cout << "Area and Perimeter of Rectangle1 : " << exp1.findOfArea() << " " << exp1.findOfPerimeter() << "\nArea and Perimeter of Rectangle2 : " << exp2.findOfArea() << " " << exp2.findOfPerimeter() << endl;
     return 0;
 }
+
