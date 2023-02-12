@@ -1,2 +1,1 @@
-I am started to learning OOP with C++.
-This repository includes codes which are I wrote on duration of studying OOP.
+I started learning OOP with C++. This repository includes codes which are I wrote the duration of studying OOP.
